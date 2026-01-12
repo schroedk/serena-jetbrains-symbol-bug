@@ -1,0 +1,9 @@
+[package]
+name = "serena-symbol-bug"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "serena_symbol_bug"
+
+[dependencies]
